@@ -1,0 +1,26 @@
+{
+    "created": "0001-01-01T00:00:00.000Z",
+    "updated": "0001-01-01T00:00:00.000Z",
+    "rvn": 1,
+    "wipeNumber": 5,
+    "accountId": "00000000000000000000000000000000",
+    "profileId": "athena",
+    "version": "https://sakurafn.pages.dev/",
+    "stats": {
+        "attributes": {
+            "habanero_unlocked": false,
+            "locker_loadout_migration": "FortniteReadFortniteWrite",
+            "locker_two_phase_commit": "COMMITTED",
+            "loadouts": [],
+            "level": 1,
+            "pinned_quest": null,
+            "last_applied_loadout": null,
+            "book_level": 1,
+            "season_num": 0,
+            "accountLevel": 1
+        }
+    },
+    "commandRevision": 0,
+    "_id": null,
+    "items": {}
+}
